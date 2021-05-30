@@ -4,7 +4,7 @@ Busca sanitizar string removendo scripts e tags de Strings fazendo uso de Regex.
 
 Projeto meramente ilustrativo.
 
-## Exemplo de uso:
+## Exemplo de uso
 
 ```java
   @Test
